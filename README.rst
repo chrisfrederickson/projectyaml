@@ -3,19 +3,19 @@ ProjectYAML
 ===========
 
 
-.. image:: https://img.shields.io/pypi/v/projectyaml.svg
-        :target: https://pypi.python.org/pypi/projectyaml
+.. image:: https://img.shields.io/pypi/v/project-yaml.svg
+        :target: https://pypi.python.org/pypi/project-yaml
 
-.. image:: https://img.shields.io/travis/chrisfrederickson/projectyaml.svg
-        :target: https://travis-ci.org/chrisfrederickson/projectyaml
+.. image:: https://img.shields.io/travis/chrisfrederickson/project-yaml.svg
+        :target: https://travis-ci.org/chrisfrederickson/project-yaml
 
-.. image:: https://readthedocs.org/projects/projectyaml/badge/?version=latest
-        :target: https://projectyaml.readthedocs.io/en/latest/?badge=latest
+.. image:: https://readthedocs.org/projects/project-yaml/badge/?version=latest
+        :target: https://project-yaml.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
 
-.. image:: https://pyup.io/repos/github/chrisfrederickson/projectyaml/shield.svg
-     :target: https://pyup.io/repos/github/chrisfrederickson/projectyaml/
+.. image:: https://pyup.io/repos/github/chrisfrederickson/project-yaml/shield.svg
+     :target: https://pyup.io/repos/github/chrisfrederickson/project-yaml/
      :alt: Updates
 
 
